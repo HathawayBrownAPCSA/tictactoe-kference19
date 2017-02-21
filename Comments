@@ -1,0 +1,9 @@
+The file you have posted is a strange conglomeration of the original code and the new 2-D array version
+that we put together in class.  
+
+It doesn't compile, so there's no way to test it.
+
+You restructured MOST of it as a 2-D array, but left key parts untouched - line 28 in particular, and
+checkForWin (starting @ line 70) as well.
+
+Right now, 4/10.  Half back if you fix the problems.
